@@ -9,6 +9,8 @@
 This project contains the following items:
   - a PDF file containing the Final Project Report
   - a MATLAB file containing the final solutions titled 'finalsolution.m'
+  - a MATLAB file containing the pre processing function titled ‘readAndPreprocessImage.m’
+  - a MATLAB file containing the pre processing function titled ‘readAndPreprocessImageVgg.m’
   - a README file containing any relevant information regarding this project (current document)
 
 <br>
@@ -16,23 +18,25 @@ This project contains the following items:
 For this project you will need the following:
   - MATLAB
   - Download the "Deep Learning Toolbox Model for AlexNet Network" package within MATLAB
+  - Download the "Deep Learning Toolbox Model for VGG16 Network" package within MATLAB
 
 <br>
 
 The project will account for the following processes:
   01. Download MATLAB.
   02. Download the "Deep Learning Toolbox Model for AlexNet Network" package within MATLAB
-  03. Download this project.
-  04. Run starter code using the dataset from Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data.
-  05. Run "Part 1" of the starter code and ensure that it works as intended. Inspect the contents of the variable model.
-  06. (OPTIONAL) Used the “Deep Network Designer” app (within MATLAB) to explore the model interactively.
-  07. Run "Part 2" of the starter code and ensure that it works as intended.
-  08. Run "Part 3" of the starter code and ensure that it works as intended.
-  09. Run "Part 4" of the starter code and ensure that it works as intended.
-  10. The starter code used a very small subset of the Kaggle dataset (20 images of dogs and 20 images of cats) out of the 25,000 images (2 x 12,500) available. This has to be changed. Follow the steps below.
-  11. Download the train.zip data file from the dataset link indicated above (https://www.kaggle.com/c/dogs-vs-cats/data). You can disregard test1.zip (for now) and the  sampleSubmission CSV file (forever).
-  12. Write code for “Part 5” of the starter code.
-  13. Start a new MATLAB script containing the “final solution”. 
+  03. Download the "Deep Learning Toolbox Model for VGG16 Network" package within MATLAB
+  04. Download this project.
+  05. Run starter code using the dataset from Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data.
+  06. Run "Part 1" of the starter code and ensure that it works as intended. Inspect the contents of the variable model.
+  07. (OPTIONAL) Used the “Deep Network Designer” app (within MATLAB) to explore the model interactively.
+  08. Run "Part 2" of the starter code and ensure that it works as intended.
+  09. Run "Part 3" of the starter code and ensure that it works as intended.
+  10. Run "Part 4" of the starter code and ensure that it works as intended.
+  11. The starter code used a very small subset of the Kaggle dataset (20 images of dogs and 20 images of cats) out of the 25,000 images (2 x 12,500) available. This has to be changed.  
+  12. Download the train.zip data file from the dataset link indicated above (https://www.kaggle.com/c/dogs-vs-cats/data). You can disregard test1.zip (for now) and the  sampleSubmission CSV file (forever).
+  13. Write code for “Part 5” of the starter code.
+  14. Start a new MATLAB script containing the “final solution”. 
 
 <br> 
 
