@@ -17,15 +17,15 @@ This project contains the following items:
 
 For this project you will need the following:
   - MATLAB
-  - Download the "Deep Learning Toolbox Model for AlexNet Network" package within MATLAB
-  - Download the "Deep Learning Toolbox Model for VGG16 Network" package within MATLAB
+  - "Deep Learning Toolbox Model for AlexNet Network" package within MATLAB
+  - "Deep Learning Toolbox Model for VGG16 Network" package within MATLAB
 
 <br>
 
 The project will account for the following processes:
   01. Download MATLAB.
-  02. Download the "Deep Learning Toolbox Model for AlexNet Network" package within MATLAB
-  03. Download the "Deep Learning Toolbox Model for VGG16 Network" package within MATLAB
+  02. Download the "Deep Learning Toolbox Model for AlexNet Network" package within MATLAB.
+  03. Download the "Deep Learning Toolbox Model for VGG16 Network" package within MATLAB.
   04. Download this project.
   05. Run starter code using the dataset from Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data.
   06. Run "Part 1" of the starter code and ensure that it works as intended. Inspect the contents of the variable model.
@@ -34,9 +34,10 @@ The project will account for the following processes:
   09. Run "Part 3" of the starter code and ensure that it works as intended.
   10. Run "Part 4" of the starter code and ensure that it works as intended.
   11. The starter code used a very small subset of the Kaggle dataset (20 images of dogs and 20 images of cats) out of the 25,000 images (2 x 12,500) available. This has to be changed.  
-  12. Download the train.zip data file from the dataset link indicated above (https://www.kaggle.com/c/dogs-vs-cats/data). You can disregard test1.zip (for now) and the  sampleSubmission CSV file (forever).
+  12. Download the train.zip data file found here: https://www.kaggle.com/c/dogs-vs-cats/data (this is already included in this project in the root). You can disregard test1.zip (for now) and the  sampleSubmission CSV file (forever).
   13. Write code for “Part 5” of the starter code.
   14. Start a new MATLAB script containing the “final solution”. 
+  15. Then, and only then, write code to test the three approaches using the Kaggle test dataset (test1.zip file from Kaggle).
 
 <br> 
 
